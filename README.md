@@ -1,0 +1,1 @@
+Sistema web desenvolvido como projeto acadêmico, posteriormente expandido para fins de aprimoramento prático. A aplicação possui controle de acesso por tipo de usuário (cliente, funcionário e visitante), incluindo autenticação, gerenciamento de produtos, carrinho de compras e gerenciamento de perfil.
